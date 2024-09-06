@@ -1,4 +1,8 @@
 # mountnfs_Linux
+
+when you have a linux ubuntu container make sure to create it as an unprivileged container is set to NO or you will not be able to mount external drives to it.
+![image](https://github.com/user-attachments/assets/434d6f7a-182c-4a05-bb5e-926a3788ea76)
+
 mount a network drive in linux to TRUNAS for backup pourposes
 
 
